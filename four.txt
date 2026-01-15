@@ -2,7 +2,3 @@ four
 444
 
 new feature
-
-added new 444
-
-reverted 444
